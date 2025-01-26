@@ -7,19 +7,19 @@
 
     "env": {
         "SESSION_ID": {
-            "description": "Type the Session-ID you got from pair or scan qr.",
+            "description": "Manu-MD&XZMg1boY#rjgDb5RAKqeK-JNJ29R6QNR_lskXBXpfnlE5LsKGJg4",
             "required": true,
-            "value": "put session id here"
+            "value": "Manu-MD&XZMg1boY#rjgDb5RAKqeK-JNJ29R6QNR_lskXBXpfnlE5LsKGJg4"
         },
         "GITHUB_USERNAME": {
-            "description": "Put your github usearname here.",
+            "description": "HASHIYAMD",
             "required": true,
-             "value": "put your usearname"
+             "value": "HASHIYAMD"
         },
         "GITHUB_AUTH_TOKEN": {
-            "description": "Put your github auth token here.",
+            "description": "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",
             "required": true,
-            "value": "put your auth token"
+            "value": "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"
         }
     },
     "buildpacks": [
